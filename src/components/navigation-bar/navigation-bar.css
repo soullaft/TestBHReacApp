@@ -1,0 +1,17 @@
+.userProfile {
+  height: 50px;
+  width: 50px;
+  border-radius: 100% !important;
+  display: inline-block;
+  margin-right: 15px;
+}
+
+.userProfile img {
+  display: inline-block;
+  width: 100%;
+  margin-right: 10px;
+}
+
+.userProfile:hover {
+  cursor: pointer;
+}

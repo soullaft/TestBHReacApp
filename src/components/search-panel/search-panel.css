@@ -1,0 +1,11 @@
+.vcenter {
+  display: inline-block;
+  vertical-align: middle;
+  float: none;
+}
+
+@media (max-width: 575px) {
+  .col button {
+    margin-top: 0 !important;
+  }
+}

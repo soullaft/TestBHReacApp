@@ -1,2 +1,0 @@
-# TestBHReacApp
-Created with CodeSandbox
